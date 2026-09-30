@@ -6,6 +6,12 @@
 <p align="center">   <img src="https://img.shields.io/badge/platform-Android-brightgreen" alt="平台">   <img src="https://img.shields.io/badge/version-1.0-blue" alt="版本">   <img src="https://img.shields.io/badge/license-%E7%A6%81%E6%AD%A2%E5%95%86%E7%94%A8-lightgrey" alt="许可"> </p>
 
 ---
+## 🖼 截图
+
+| 月薪制界面                               | 日薪制界面                           | 设置                               | 记一笔                           | 应用锁                       |
+| ---------------------------------------- | ------------------------------------ | ---------------------------------- | -------------------------------- | ---------------------------- |
+| ![month-home](screenshot/month-home.png) | ![day-home](screenshot/day-home.png) | ![setting](screenshot/setting.png) | ![record](screenshot/record.png) | ![lock](screenshot/lock.png) |
+
 
 ## 📌 简介
 
@@ -61,12 +67,6 @@
 - ✅ **本地加密存储**：核心数据 AES-GCM 加密，密钥由系统安全存储保护
 - ✅ **隐私保护**：可选应用锁、后台遮罩、防截屏
 - 完整条款见 **[隐私政策](隐私政策.md)** 与 **[用户协议](用户协议.md)**
-
-## 🖼 截图
-
-| 月薪制界面                               | 日薪制界面                           | 设置                               | 记一笔                           | 应用锁                       |
-| ---------------------------------------- | ------------------------------------ | ---------------------------------- | -------------------------------- | ---------------------------- |
-| ![month-home](screenshot/month-home.png) | ![day-home](screenshot/day-home.png) | ![setting](screenshot/setting.png) | ![record](screenshot/record.png) | ![lock](screenshot/lock.png) |
 
 ## 💬 反馈
 
