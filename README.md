@@ -66,7 +66,7 @@
 
 | 月薪制界面                               | 日薪制界面                           | 设置                               | 记一笔                           | 应用锁                       |
 | ---------------------------------------- | ------------------------------------ | ---------------------------------- | -------------------------------- | ---------------------------- |
-| ![month-home](xinyoushu/screenshot\month-home.png) | ![day-home](screenshot\day-home.png) | ![setting](screenshot\setting.png) | ![record](screenshot\record.png) | ![lock](screenshot\lock.png) |
+| ![month-home](xinyoushu\screenshot\month-home.png) | ![day-home](screenshot\day-home.png) | ![setting](screenshot\setting.png) | ![record](screenshot\record.png) | ![lock](screenshot\lock.png) |
 
 ## 💬 反馈
 
